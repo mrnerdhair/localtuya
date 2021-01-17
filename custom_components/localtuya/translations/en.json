@@ -145,7 +145,8 @@
                     "preset_set": "Presets Set (optional)",
                     "eco_dp": "Eco DP (optional)",
                     "eco_value": "Eco value (optional)",
-                    "heuristic_action": "Enable heuristic action (optional)"
+                    "heuristic_action": "Enable heuristic action (optional)",
+                    "lock_commands_set": "Open_Close Commands Set"
                 }
             },
             "cloud_setup": {
@@ -268,7 +269,8 @@
                     "min_value": "Minimum Value",
                     "max_value": "Maximum Value",
                     "step_size": "Minimum increment between numbers",
-                    "is_passive_entity": "Passive entity - requires integration to send initialisation value"
+                    "is_passive_entity": "Passive entity - requires integration to send initialisation value",
+                    "lock_commands_set": "Open_Close Commands Set"
                 }
             }
         }

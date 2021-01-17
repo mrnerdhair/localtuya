@@ -12,6 +12,7 @@ PLATFORMS = [
     "cover",
     "fan",
     "light",
+    "lock",
     "number",
     "select",
     "sensor",
@@ -81,6 +82,9 @@ CONF_FAN_DIRECTION = "fan_direction"
 CONF_FAN_DIRECTION_FWD = "fan_direction_forward"
 CONF_FAN_DIRECTION_REV = "fan_direction_reverse"
 CONF_FAN_DPS_TYPE = "fan_dps_type"
+
+# lock
+CONF_LOCK_COMMANDS_SET = "lock_commands_set"
 
 # sensor
 CONF_SCALING = "scaling"
